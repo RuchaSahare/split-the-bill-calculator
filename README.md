@@ -1,4 +1,5 @@
-# Smart Bill Calculator
+# split-the-bill-calculator
+
 
 A modern React application for easily splitting bills and calculating tips among multiple people.
 
@@ -9,7 +10,8 @@ Check out the live version here:
 
 ## Overview
 
-The Smart Bill Calculator provides an intuitive interface for calculating and distributing bill payments among friends, roommates, or colleagues. It supports both even splits and custom contribution percentages, making it ideal for various bill-sharing scenarios.
+The split-the-bill-calculator
+ provides an intuitive interface for calculating and distributing bill payments among friends, roommates, or colleagues. It supports both even splits and custom contribution percentages, making it ideal for various bill-sharing scenarios.
 
 ## Features
 
@@ -32,7 +34,7 @@ The Smart Bill Calculator provides an intuitive interface for calculating and di
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NelushGayashan/smart-bill-calculator.git
+   git clone https://github.com/RuchaSahare/split-the-bill-calculator.git
    cd smart-bill-calculator
    ```
 
@@ -43,7 +45,7 @@ The Smart Bill Calculator provides an intuitive interface for calculating and di
 
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 4. Open your browser and navigate to:
@@ -79,3 +81,11 @@ The application is built around a single Calculator component that handles:
 - Receipt scanning functionality
 - Dark/light theme toggle
 - Export results to PDF or share via messaging apps
+
+
+## 🌐 Live Demo
+Add your Vercel link here (after deployment)
+
+## 👤 Author
+Rucha Sahare  
+Email: ruchasahare852@gmail.com
