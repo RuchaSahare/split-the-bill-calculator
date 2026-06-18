@@ -1,12 +1,12 @@
-# split-the-bill-calculator
+# Split-the-bill-calculator
 
 
 A modern React application for easily splitting bills and calculating tips among multiple people.
 
 ## 🚀 Live Demo
 
-Check out the live version here:  
-👉 [smart-bill-calculator.netlify.app](https://smart-bill-calculator.netlify.app/)
+Check out the live version here:
+👉 https://split-the-bill-calculator.vercel.app/
 
 ## Overview
 
@@ -83,8 +83,6 @@ The application is built around a single Calculator component that handles:
 - Export results to PDF or share via messaging apps
 
 
-## 🌐 Live Demo
-Add your Vercel link here (after deployment)
 
 ## 👤 Author
 Rucha Sahare  
